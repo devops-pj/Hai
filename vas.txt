@@ -1,8 +1,0 @@
-<<<<<<< HEAD
-HEllo team
-this is user 
-=======
-HEllo Users
-This is main team
->>>>>>> team
-Be careful
